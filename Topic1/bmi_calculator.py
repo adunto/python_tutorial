@@ -1,6 +1,8 @@
 # 2) 질문: 사용자로부터 체중(kg)과 키(cm)를 입력받아 BMI를 계산하세요. 
 #         (공식: BMI = 체중(kg) / (키(m)²))
-#    파일명: bmi_calculator.py
+# 파일명: bmi_calculator.py
+# 실행: python circle_area.py
+# 결과: 원의 넓이: 78.5
 
 def get_positive_float(prompt):
     while True:

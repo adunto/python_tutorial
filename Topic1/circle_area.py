@@ -1,5 +1,9 @@
 #  1) 질문: 반지름 5인 원의 넓이를 계산하세요. (공식: 넓이 = π × 반지름², π=3.14) 
-#    파일명: circle_area.py
+#  파일명: circle_area.py
+#  실행: python bmi_calculator.py
+#       결과: 체중(kg): 70
+#       키(cm): 175
+#       BMI: 22.9
 
 import math
 
